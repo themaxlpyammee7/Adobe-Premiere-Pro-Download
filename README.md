@@ -1,4 +1,3 @@
-```markdown
 # Adobe Premiere Pro 🎬✨ | The Ultimate Video Editing Software for Creators
 
 Welcome to Adobe Premiere Pro! This powerful desktop application allows you to effortlessly create, edit, and produce stunning videos. 🎥✨ Whether you're a budding filmmaker or a content creator, Premiere Pro makes video editing a breeze, turning your creative ideas into reality. 🌟
